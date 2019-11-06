@@ -1,0 +1,3 @@
+<aura:component access="global">
+    <lightning:input aura:id="obName" type="text" value="manish" label="Test Label" />
+</aura:component>
