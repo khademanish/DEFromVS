@@ -8,6 +8,7 @@
     <script>
 
 function failCall(status,msg) { 
+    /*FInal comment
     /*  
         If you reach here, user is probabaly not running the 
         service. Redirect the user to a page where he can download the
